@@ -71,8 +71,8 @@ Sou um **Desenvolvedor Full-Stack** focado no ecossistema **JavaScript**, constr
 ## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Samuelaraujo10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelaraujo10&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samuelaraujo10&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samuelaraujo10&theme=tokyonight" alt="Principais Linguagens" />
 </div>
 
 ---
